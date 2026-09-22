@@ -15,4 +15,4 @@ Atualmente, o processo exige a edição manual de três planilhas distintas no E
 - **Consolidação do Relatório:** Inserir a captura gerada diretamente no documento de relatório correspondente àquela data[cite: 1].
 
 ## Status do Projeto
-- Em fase de planejamento de arquitetura e levantamento de requisitos de entrada/saída.
+- Em fase de alteração dos dados da planilha.
