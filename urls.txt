@@ -1,5 +1,0 @@
-urls_planilhas = {
-    "fibra": "https://tictrens-my.sharepoint.com/:x:/r/personal/roberto_filho_tictrens_com_br/_layouts/15/doc2.aspx?sourcedoc=%7B94B7A26B-F0D2-42FF-B039-8DA97FD0AE67%7D&file=Check%20List%20Fibra%20Telefonica%20-%20Copiar.xlsx&action=default&mobileredirect=true&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.UNAUTH%2CAPPHOME-WEB.SHELL.SIGNIN%2CAPPHOME-WEB.FILEBROWSER.RECENT&wdPreviousSession=f68bc001-7e05-4e64-881e-11a8a4c2bf29&wdPreviousSessionSrc=AppHomeWeb&ct=1790093397441" ,
-    "eventos": "https://tictrens-my.sharepoint.com/:x:/r/personal/roberto_filho_tictrens_com_br/_layouts/15/Doc.aspx?sourcedoc=%7BD8B367EA-9B65-45E1-8B4C-FF44F9B89B23%7D&file=CHECKLIST%20LISTA%20EVENTOS%20-%20Copiar.xlsx&action=default&mobileredirect=true" ,
-    "ferramentas": "https://tictrens-my.sharepoint.com/:x:/r/personal/roberto_filho_tictrens_com_br/_layouts/15/Doc.aspx?sourcedoc=%7B016146A9-90C0-46CE-8199-1D19E4D6242C%7D&file=Checklist_Ferramentas_CCO%20-%20Copiar.xlsx&action=default&mobileredirect=true"
-}
